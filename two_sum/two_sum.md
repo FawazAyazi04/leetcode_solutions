@@ -1,4 +1,4 @@
-Solution 1
+# Solution 1
 
 Idea = Brute force
 
@@ -10,7 +10,7 @@ Space Complexity: O(1)
 
 I tried first via brute force and got correct in one go
 
-Solution 2
+# Solution 2
 
 Idea = Sorting + two Pointer
 
@@ -23,7 +23,7 @@ Space Complexity: O(n) # created a separate sorted list using its indices
 For optiimization I thought of sorting the lsit and then using two pointers get to the desired output b. Initially I got stuck in how to get the indices of the original unsorted list as I was returning the sorted list's indices. 
 
 
-Solution 3
+# Solution 3
 
 Idea = Hashmap
 
